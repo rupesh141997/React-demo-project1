@@ -1,0 +1,305 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+  
+.all{
+    width: 100vw;
+    height: 100vh;
+     
+}
+ 
+ .x{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(359deg, rgba(0, 0, 0, 0.65) 0%,
+     rgba(10, 29, 61, 0.00) 60.94%),url('../images/iStock-1329831677\ 1.jpg');
+     background-size: cover;
+     overflow: hidden;
+     
+    
+ }
+
+ .top{
+    
+    padding-top: 2.5rem;
+    padding-bottom: 1.875rem;
+    padding-right: 6.25rem;
+    display: flex;
+    justify-content: right;
+ }
+
+ .topinner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 6.875rem;
+    height: 2.188rem;
+    background-color: #FFF;
+    border-radius: 3.125rem;
+background: linear-gradient(180deg, rgba(70, 177, 157, 0.50) 0%, rgba(71, 179, 156, 0.50) 100%);
+    
+ }
+
+ .topinner a{
+    text-decoration: none;
+    color: #FFF;
+font-family: Roboto;
+font-size: 0.9rem;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+ }
+
+ .log{
+    width: 1.1875rem;
+height: 1.1875rem;
+flex-shrink: 0;
+ }
+
+ .mid{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+
+
+
+
+
+
+ 
+   
+  
+
+
+
+  
+
+
+@media screen and (max-width: 600px) {
+
+    .all{
+        width: 100vw;
+        
+    }
+    .x{
+        height: 140vh;
+    }
+     
+    
+.mid{
+    height: 100vh;
+    margin-top: 80vw;
+     
+}
+
+.mid h3{
+    font-size: 8vw;
+     
+}
+
+.ser{
+    width: 80vw;
+    margin-left: 12vw;
+    height: 10vw;
+}
+.s{
+    height: 3vw;
+    width: 3vw;
+    margin-left: -10.1vw; 
+    margin-top: 4vw;
+}
+ .in-2{
+    gap: 10vw;
+    font-size: 10vw;
+ }
+    .in-2 h5{
+        font-size: 3vw;
+        margin-right: 4vw;
+         
+    }
+
+     .op-1{
+        font-size: 3vw;
+        padding-bottom: 2vw;
+        line-height: -2vw;
+        
+    }
+    .op-2{
+        font-size: 3vw;
+    }
+    .op-3{
+        font-size: 3vw;
+    }
+    .mid{
+        margin-top: -40vw;
+    }
+    .bootom{
+        display: flex;
+        flex-direction: column;
+        margin-top: -60vw;
+    }
+
+    .innerbottom{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 30px;
+        margin-top: -30vw;
+    }
+    .top{
+         
+         
+         justify-content: end;
+        width: 40vw;
+         
+
+    }
+    
+    .topinner a{
+        font-size: 3vw;
+        
+    }
+}
+
+ @media (min-width:820px) {
+    
+    .x{
+        height:auto;
+    }
+    .mid{
+        margin-top: -35vw;
+    }
+    .bootom{
+        margin-top: -70vw;
+    }
+ }
+
+ @media (min-width:768px) {
+    
+    .x{
+        height:auto;
+    }
+    .mid{
+        margin-top: -30vw;
+    }
+    .bootom{
+        margin-top: -57vw;
+    }
+ }
+
+ @media (min-width:912px) {
+    
+    .x{
+        height:auto;
+    }
+    .mid{
+        margin-top: -40vw;
+    }
+    .bootom{
+        margin-top: -70vw;
+    }
+ }
+
+
+
+ @media (min-width:440px) and (max-width:590px) {
+    
+
+    .all{
+        width: 100vw;
+        
+    }
+    .x{
+        height: 140vh;
+    }
+     
+    
+.mid{
+    height: 100vh;
+    margin-top: 90vw;
+     
+}
+
+.mid h3{
+    font-size: 4vw;
+    margin-top: auto;
+     
+}
+
+.ser{
+    width: 80vw;
+    margin-left: 8vw;
+    height: 10vw;
+}
+.s{
+    height: 3vw;
+    width: 3vw;
+    margin-left: -10.1vw; 
+    margin-top: 4vw;
+}
+ .in-2{
+    gap: 10vw;
+    font-size: 10vw;
+ }
+    .in-2 h5{
+        font-size: 3vw;
+        margin-right: 4vw;
+         
+    }
+
+     .op-1{
+        font-size: 3vw;
+        padding-bottom: 2vw;
+        line-height: -2vw;
+        
+    }
+    .op-2{
+        font-size: 3vw;
+    }
+    .op-3{
+        font-size: 3vw;
+    }
+    .mid{
+        margin-top: -40vw;
+    }
+    .bootom{
+        display: flex;
+        flex-direction: column;
+        margin-top: -60vw;
+    }
+
+    .innerbottom{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 30px;
+        margin-top: 15vw;
+    }
+    .top{
+         
+         
+         justify-content: end;
+        width: 40vw;
+         
+
+    }
+    
+    .topinner a{
+        font-size: 3vw;
+        
+    }
+}
+ 

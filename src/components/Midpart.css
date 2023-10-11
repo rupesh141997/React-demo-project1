@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.main-2{
+    /* width: 100vw; 
+     height: 100vh; */
+    background: #2B2B2B;
+}
+
+.main-2--head{
+    color: #FFF;
+font-family: Roboto;
+font-size: 1.5rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+display: flex;
+justify-content: center;
+padding: 30px;
+}
+
+.main-2-midinner{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-2-midinner-1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.part-1 h5,.part-2 h5,.part-3 h5{
+
+    margin-bottom: 10px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.part-1 p,.part-2 p,.part-3 p{
+    
+    width: 12.25rem;
+    height: 5.75rem;
+    flex-shrink: 0; 
+          
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 0.8rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.25rem; /* 125% */
+    padding-left: 10px;
+    padding-top: 1rem;
+
+}
+.imgs{
+    margin-top: 20px;
+    /* padding-top: 30px; */
+    padding-left: 70px;
+    width: 4.25rem;
+    height: 4.25rem;
+    flex-shrink: 0;
+    margin-bottom: 20px;
+}
+
+
+
+/* this is for second part of mid page
+
+*/
+
+
+.main-2-midinner-2{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+
+
+.part-4 h5,.part-5 h5,.part-6 h5{
+
+    margin-bottom: 10px;
+    color: #FFF;
+font-family: Roboto;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.part-4 p,.part-5 p,.part-6 p{
+    
+    width: 12.25rem;
+    height: 5.75rem;
+    flex-shrink: 0;    
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 0.8rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.25rem; /* 125% */
+    padding-left: 10px;
+
+}
+.imgs2{
+    margin-top: 20px;
+    /* padding-top: 30px; */
+    padding-left: 50px;
+    width: 4.25rem;
+    height: 4.25rem;
+    flex-shrink: 0;
+    margin-bottom: 20px;
+}
+
+
+.part-6 h5{
+    padding-left: 35px;
+}
