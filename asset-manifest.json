@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-demo-project1/static/css/main.734e6c29.css",
+    "main.js": "/React-demo-project1/static/js/main.14c97d0c.js",
+    "static/js/787.347f5e04.chunk.js": "/React-demo-project1/static/js/787.347f5e04.chunk.js",
+    "static/media/iStock-1329831677 1.jpg": "/React-demo-project1/static/media/iStock-1329831677 1.383714ac5834be6e1ddb.jpg",
+    "static/media/Group 1611.svg": "/React-demo-project1/static/media/Group 1611.51804555402fce73737491acf97fa93a.svg",
+    "static/media/Group 1657.svg": "/React-demo-project1/static/media/Group 1657.3c7413689a6158a455b085175b2b60d1.svg",
+    "static/media/c1.png": "/React-demo-project1/static/media/c1.0fbee5157219ec4b62da.png",
+    "static/media/Group 1608.svg": "/React-demo-project1/static/media/Group 1608.284e669d35eac9e84f8d2d6491b35346.svg",
+    "static/media/slick.svg": "/React-demo-project1/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-demo-project1/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-demo-project1/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-demo-project1/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React-demo-project1/index.html",
+    "main.734e6c29.css.map": "/React-demo-project1/static/css/main.734e6c29.css.map",
+    "main.14c97d0c.js.map": "/React-demo-project1/static/js/main.14c97d0c.js.map",
+    "787.347f5e04.chunk.js.map": "/React-demo-project1/static/js/787.347f5e04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.734e6c29.css",
+    "static/js/main.14c97d0c.js"
+  ]
+}
